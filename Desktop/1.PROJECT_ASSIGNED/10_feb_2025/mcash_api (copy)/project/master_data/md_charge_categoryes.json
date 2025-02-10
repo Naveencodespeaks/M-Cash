@@ -1,0 +1,15 @@
+[
+	{
+		"id":1,
+		"name":"Remittance Service Charge"
+	},
+	{
+		"id":2,
+		"name": "GST On Charges"
+	},
+	{
+		"id":3,
+		"name": "GST On currency conversion"
+	}
+	
+]

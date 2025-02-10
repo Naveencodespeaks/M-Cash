@@ -1,0 +1,22 @@
+[
+	{
+		"id":1,
+		"zone": "PST",
+		"name":"America/Los_Angeles"
+	},
+	{
+		"id":2,
+		"zone": "CST",
+		"name": "America/Chicago"
+	},
+	{
+		"id":3,
+		"zone": "EST",
+		"name": "America/New_York"
+	},
+	{
+		"id":4,
+		"zone": "MST",
+		"name": "America/Phoenix"
+	}
+]

@@ -1,0 +1,1587 @@
+'{"time": "2025-02-03 11:01:00,726", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 11:01:00,726", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 11:01:00,726", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 11:01:00,741", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 11:01:02,037", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 11:01:02,037", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 11:01:02,038", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 11:01:02,039", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 11:01:02,039", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 11:01:02,040", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 11:01:02,040", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 11:01:02,042", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 50337.957734 seconds)"}'
+'{"time": "2025-02-03 11:01:49,479", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 11:01:49,479", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 11:01:49,479", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 11:01:49,492", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 11:01:51,362", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 11:01:51,363", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 11:01:51,365", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 11:01:51,366", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 11:01:51,366", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 11:01:51,366", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 11:01:51,367", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 11:01:51,370", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 50288.629713 seconds)"}'
+'{"time": "2025-02-03 11:02:43,039", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 11:02:43,040", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 11:02:43,040", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 11:02:43,047", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 11:02:44,178", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 11:02:44,179", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 11:02:44,180", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 11:02:44,180", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 11:02:44,180", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 11:02:44,180", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 11:02:44,181", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 11:02:44,181", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 50235.818777 seconds)"}'
+'{"time": "2025-02-03 11:03:02,247", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 11:03:02,247", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 11:03:02,247", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 11:03:02,258", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 11:03:03,527", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 11:03:03,527", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 11:03:03,529", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 11:03:03,529", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 11:03:03,529", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 11:03:03,530", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 11:03:03,530", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 11:03:03,530", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 50216.469600 seconds)"}'
+'{"time": "2025-02-03 11:56:52,193", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 11:56:52,194", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 11:56:52,194", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 11:56:52,208", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 11:56:53,735", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 11:56:53,736", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 11:56:53,736", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 11:56:53,737", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 11:56:53,737", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 11:56:53,737", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 11:56:53,737", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 11:56:53,737", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 46986.262019 seconds)"}'
+'{"time": "2025-02-03 14:33:52,358", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:33:52,358", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:33:52,358", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:33:52,365", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:33:53,374", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:33:53,375", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:33:53,376", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:33:53,377", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:33:53,377", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:33:53,377", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:33:53,377", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:33:53,377", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 37566.622122 seconds)"}'
+'{"time": "2025-02-03 14:33:54,511", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:33:54,511", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:33:54,511", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:33:54,519", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:33:55,459", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:33:55,460", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:33:55,461", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:33:55,461", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:33:55,462", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:33:55,462", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:33:55,462", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:33:55,462", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 37564.537562 seconds)"}'
+'{"time": "2025-02-03 14:36:31,476", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:36:31,476", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:36:31,476", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:36:31,484", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:36:32,528", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:36:32,529", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:36:32,530", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:36:32,531", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:36:32,532", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:36:32,532", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:36:32,532", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:36:32,533", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 37407.466083 seconds)"}'
+'{"time": "2025-02-03 14:36:33,823", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:36:33,823", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:36:33,823", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:36:33,832", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:36:34,885", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:36:34,885", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:36:34,887", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:36:34,888", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:36:34,888", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:36:34,888", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:36:34,889", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:36:34,890", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 37405.109143 seconds)"}'
+'{"time": "2025-02-03 14:36:37,846", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:36:37,846", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:36:37,846", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:36:37,854", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:36:38,927", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:36:38,927", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:36:38,929", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:36:38,930", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:36:38,930", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:36:38,930", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:36:38,930", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:36:40,149", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:36:40,149", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:36:40,149", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:36:40,157", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:36:41,200", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:36:41,201", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:36:41,201", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:36:41,202", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:36:41,202", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:36:41,202", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:36:41,203", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:36:41,203", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 37398.796895 seconds)"}'
+'{"time": "2025-02-03 14:36:42,662", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:36:42,662", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:36:42,663", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:36:42,675", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:36:44,083", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:36:44,084", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:36:44,085", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:36:44,086", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:36:44,086", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:36:44,086", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:36:44,086", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:36:44,088", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 37395.911754 seconds)"}'
+'{"time": "2025-02-03 14:39:01,750", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:39:01,750", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:39:01,751", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:39:01,758", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:39:02,803", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:39:02,804", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:39:02,804", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:39:02,805", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:39:02,805", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:39:02,805", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:39:02,806", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:39:02,806", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 37257.193867 seconds)"}'
+'{"time": "2025-02-03 14:48:53,260", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:48:53,260", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:48:53,260", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:48:53,268", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:48:54,203", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:48:54,204", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:48:54,205", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:48:54,205", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:48:54,205", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:48:54,205", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:48:54,206", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:48:54,207", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36665.792280 seconds)"}'
+'{"time": "2025-02-03 14:48:55,394", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:48:55,395", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:48:55,395", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:48:55,404", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:48:56,357", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:48:56,357", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:48:56,358", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:48:56,359", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:48:56,360", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:48:56,360", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:48:56,360", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:48:56,362", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36663.637660 seconds)"}'
+'{"time": "2025-02-03 14:48:57,532", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:48:57,532", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:48:57,532", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:48:57,538", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:48:58,497", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:48:58,498", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:48:58,499", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:48:58,499", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:48:58,499", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:48:58,499", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:48:58,500", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:48:58,500", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36661.499699 seconds)"}'
+'{"time": "2025-02-03 14:50:21,452", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:50:21,452", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:50:21,452", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:50:21,458", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:50:22,429", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:50:22,429", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:50:22,430", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:50:22,432", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:50:22,432", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:50:22,432", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:50:22,432", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:50:22,434", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36577.565547 seconds)"}'
+'{"time": "2025-02-03 14:52:07,874", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:52:07,874", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:52:07,874", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:52:07,882", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:52:08,872", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:52:08,873", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:52:08,873", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:52:08,874", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:52:08,874", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:52:08,874", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:52:08,875", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:52:08,875", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36471.124816 seconds)"}'
+'{"time": "2025-02-03 14:52:10,091", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:52:10,091", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:52:10,092", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:52:10,100", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:52:11,248", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:52:11,249", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:52:11,249", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:52:11,250", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:52:11,250", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:52:11,250", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:52:11,251", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:52:11,251", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36468.748758 seconds)"}'
+'{"time": "2025-02-03 14:53:20,029", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:53:20,029", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:53:20,029", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:53:20,036", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:53:21,444", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:53:21,445", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:53:21,447", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:53:21,448", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:53:21,449", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:53:21,449", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:53:21,449", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:53:21,449", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36398.550159 seconds)"}'
+'{"time": "2025-02-03 14:55:49,857", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:55:49,857", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:55:49,857", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:55:49,867", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:55:51,994", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:55:51,994", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:55:51,994", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:55:52,002", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:55:59,313", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:55:59,313", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:55:59,313", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:55:59,324", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:56:00,631", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:56:00,632", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:56:00,633", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:56:00,635", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:56:00,635", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:56:00,635", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:56:00,635", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:56:00,638", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36239.361854 seconds)"}'
+'{"time": "2025-02-03 14:56:02,011", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:56:02,011", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:56:02,011", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:56:02,023", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:56:03,290", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:56:03,291", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:56:03,292", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:56:03,292", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:56:03,293", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:56:03,293", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:56:03,293", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:56:03,295", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36236.704916 seconds)"}'
+'{"time": "2025-02-03 14:56:04,653", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 14:56:04,654", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 14:56:04,654", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 14:56:04,661", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 14:56:05,724", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 14:56:05,725", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 14:56:05,726", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 14:56:05,727", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 14:56:05,727", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 14:56:05,727", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 14:56:05,727", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 14:56:05,728", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 36234.271169 seconds)"}'
+'{"time": "2025-02-03 15:00:51,536", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:00:51,537", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:00:51,537", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:00:51,551", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:00:52,860", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:00:52,860", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:00:52,861", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:00:52,862", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:00:52,863", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:00:52,863", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:00:52,863", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:00:52,865", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35947.134587 seconds)"}'
+'{"time": "2025-02-03 15:00:54,192", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:00:54,192", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:00:54,192", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:00:54,201", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:00:55,436", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:00:55,436", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:00:55,438", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:00:55,438", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:00:55,439", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:00:55,439", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:00:55,439", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:00:55,441", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35944.558547 seconds)"}'
+'{"time": "2025-02-03 15:01:05,979", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:01:05,979", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:01:05,979", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:01:05,986", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:01:07,065", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:01:07,066", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:01:07,066", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:01:07,067", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:01:07,067", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:01:07,067", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:01:07,068", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:01:08,351", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:01:08,351", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:01:08,352", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:01:08,358", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:01:09,414", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:01:09,415", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:01:09,416", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:01:09,417", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:01:09,417", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:01:09,418", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:01:09,418", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:01:09,421", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35930.578449 seconds)"}'
+'{"time": "2025-02-03 15:01:10,739", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:01:10,739", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:01:10,739", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:01:10,748", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:01:11,809", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:01:11,810", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:01:11,811", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:01:11,812", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:01:11,812", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:01:11,813", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:01:11,813", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:01:11,814", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35928.185340 seconds)"}'
+'{"time": "2025-02-03 15:03:48,452", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:03:48,452", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:03:48,452", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:03:48,461", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:03:49,522", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:03:49,523", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:03:49,524", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:03:49,525", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:03:49,526", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:03:49,526", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:03:49,526", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:03:49,527", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35770.472125 seconds)"}'
+'{"time": "2025-02-03 15:03:50,782", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:03:50,782", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:03:50,782", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:03:50,790", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:03:51,833", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:03:51,834", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:03:51,835", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:03:51,836", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:03:51,836", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:03:51,836", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:03:51,836", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:03:51,839", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35768.160869 seconds)"}'
+'{"time": "2025-02-03 15:05:53,843", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:05:53,843", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:05:53,843", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:05:53,854", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:05:54,999", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:05:54,999", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:05:55,000", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:05:55,001", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:05:55,001", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:05:55,001", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:05:55,001", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:05:55,003", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35644.996721 seconds)"}'
+'{"time": "2025-02-03 15:05:56,416", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:05:56,416", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:05:56,416", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:05:56,425", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:05:57,520", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:05:57,520", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:05:57,521", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:05:57,522", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:05:57,522", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:05:57,522", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:05:57,523", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:05:57,523", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35642.476886 seconds)"}'
+'{"time": "2025-02-03 15:05:58,856", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:05:58,856", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:05:58,856", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:05:58,864", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:05:59,890", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:05:59,890", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:05:59,891", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:05:59,891", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:05:59,892", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:05:59,892", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:05:59,892", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:05:59,892", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35640.107470 seconds)"}'
+'{"time": "2025-02-03 15:06:01,138", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:06:01,138", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:06:01,138", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:06:01,147", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:06:02,249", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:06:02,250", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:06:02,251", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:06:02,252", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:06:02,253", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:06:02,253", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:06:02,253", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:06:03,495", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:06:03,495", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:06:03,495", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:06:03,504", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:06:04,518", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:06:04,518", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:06:04,519", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:06:04,520", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:06:04,520", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:06:04,520", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:06:04,520", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:06:04,520", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35635.479141 seconds)"}'
+'{"time": "2025-02-03 15:07:50,910", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:07:50,910", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:07:50,910", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:07:50,917", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:07:52,232", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:07:52,233", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:07:52,233", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:07:52,234", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:07:52,234", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:07:52,234", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:07:52,235", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:07:52,237", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35527.762127 seconds)"}'
+'{"time": "2025-02-03 15:07:53,609", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:07:53,609", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:07:53,609", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:07:53,616", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:07:54,729", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:07:54,730", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:07:54,731", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:07:54,731", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:07:54,732", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:07:54,732", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:07:54,732", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:07:54,732", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 35525.267480 seconds)"}'
+'{"time": "2025-02-03 15:30:03,958", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:30:03,959", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:30:03,959", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:30:03,975", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:30:05,615", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:30:05,616", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:30:05,617", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:30:05,617", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:30:05,618", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:30:05,618", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:30:05,618", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:30:05,618", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 34194.381286 seconds)"}'
+'{"time": "2025-02-03 15:32:34,414", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:32:34,414", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:32:34,414", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:32:34,422", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:32:35,404", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:32:35,405", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:32:35,406", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:32:35,406", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:32:35,406", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:32:35,407", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:32:35,407", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:32:35,409", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 34044.590996 seconds)"}'
+'{"time": "2025-02-03 15:32:36,892", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:32:36,893", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:32:36,893", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:32:36,902", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:32:38,097", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:32:38,098", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:32:38,099", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:32:38,100", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:32:38,100", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:32:38,100", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:32:38,101", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:32:39,408", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 15:32:39,408", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 15:32:39,408", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 15:32:39,417", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 15:32:40,454", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 15:32:40,454", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 15:32:40,456", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 15:32:40,456", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 15:32:40,457", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 15:32:40,457", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 15:32:40,457", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 15:32:40,458", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 34039.541135 seconds)"}'
+'{"time": "2025-02-03 16:11:58,099", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:11:58,099", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:11:58,100", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:11:58,110", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:11:59,186", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:11:59,186", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:11:59,187", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:11:59,188", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:11:59,188", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:11:59,188", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:11:59,189", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:12:00,419", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:12:00,419", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:12:00,419", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:12:00,427", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:12:01,429", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:12:01,430", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:12:01,431", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:12:01,432", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:12:01,432", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:12:01,433", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:12:01,433", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:12:01,433", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31678.566649 seconds)"}'
+'{"time": "2025-02-03 16:12:08,536", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:12:08,536", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:12:08,536", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:12:08,547", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:12:09,614", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:12:09,615", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:12:09,616", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:12:09,616", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:12:09,617", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:12:09,617", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:12:09,617", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:12:09,618", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31670.381450 seconds)"}'
+'{"time": "2025-02-03 16:12:10,817", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:12:10,817", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:12:10,817", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:12:10,823", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:12:11,820", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:12:11,820", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:12:11,821", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:12:11,822", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:12:11,823", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:12:11,823", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:12:11,823", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:12:11,826", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31668.173908 seconds)"}'
+'{"time": "2025-02-03 16:15:11,552", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:15:11,552", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:15:11,552", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:15:11,559", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:15:12,554", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:15:12,554", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:15:12,555", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:15:12,556", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:15:12,556", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:15:12,556", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:15:12,556", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:15:12,556", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31487.443356 seconds)"}'
+'{"time": "2025-02-03 16:15:38,487", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:15:38,488", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:15:38,488", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:15:38,496", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:15:39,487", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:15:39,488", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:15:39,489", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:15:39,490", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:15:39,491", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:15:39,491", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:15:39,491", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:15:40,749", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:15:40,750", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:15:40,750", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:15:40,761", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:15:41,817", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:15:41,817", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:15:41,818", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:15:41,818", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:15:41,819", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:15:41,819", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:15:41,819", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:15:41,821", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31458.178729 seconds)"}'
+'{"time": "2025-02-03 16:16:54,943", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:16:54,943", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:16:54,943", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:16:54,951", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:16:56,252", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:16:56,253", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:16:56,254", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:16:56,255", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:16:56,255", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:16:56,255", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:16:56,256", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:16:56,258", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31383.741545 seconds)"}'
+'{"time": "2025-02-03 16:16:57,674", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:16:57,674", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:16:57,674", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:16:57,683", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:16:58,686", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:16:58,687", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:16:58,688", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:16:58,688", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:16:58,689", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:16:58,689", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:16:58,689", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:16:58,689", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31381.310487 seconds)"}'
+'{"time": "2025-02-03 16:17:00,188", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:17:00,188", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:17:00,188", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:17:00,199", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:17:01,271", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:17:01,271", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:17:01,272", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:17:01,273", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:17:01,273", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:17:01,273", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:17:01,273", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:17:01,273", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31378.726348 seconds)"}'
+'{"time": "2025-02-03 16:17:02,560", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:17:02,560", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:17:02,560", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:17:02,568", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:17:03,707", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:17:03,708", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:17:03,710", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:17:03,711", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:17:03,712", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:17:03,712", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:17:03,712", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:17:03,714", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31376.285578 seconds)"}'
+'{"time": "2025-02-03 16:18:14,058", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:18:14,059", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:18:14,059", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:18:14,065", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:18:15,044", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:18:15,045", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:18:15,045", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:18:15,046", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:18:15,046", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:18:15,046", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:18:15,046", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:18:15,046", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31304.953029 seconds)"}'
+'{"time": "2025-02-03 16:19:44,684", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:19:44,684", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:19:44,684", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:19:44,693", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:19:45,677", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:19:45,677", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:19:45,678", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:19:45,679", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:19:45,679", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:19:45,679", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:19:45,680", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:19:45,680", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31214.319791 seconds)"}'
+'{"time": "2025-02-03 16:19:46,918", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:19:46,918", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:19:46,918", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:19:46,927", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:19:47,944", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:19:47,944", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:19:47,945", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:19:47,946", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:19:47,946", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:19:47,946", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:19:47,946", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:19:47,946", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31212.053154 seconds)"}'
+'{"time": "2025-02-03 16:20:20,526", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:20:20,526", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:20:20,527", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:20:20,534", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:20:21,497", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:20:21,497", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:20:21,498", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:20:21,499", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:20:21,499", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:20:21,499", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:20:21,499", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:20:21,499", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31178.500127 seconds)"}'
+'{"time": "2025-02-03 16:20:22,734", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:20:22,734", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:20:22,734", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:20:22,745", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:20:23,781", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:20:23,782", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:20:23,783", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:20:23,783", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:20:23,783", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:20:23,784", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:20:23,784", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:20:23,784", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31176.215614 seconds)"}'
+'{"time": "2025-02-03 16:20:24,963", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:20:24,963", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:20:24,963", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:20:24,970", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:20:26,008", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:20:26,008", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:20:26,010", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:20:26,011", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:20:26,011", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:20:26,011", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:20:26,011", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:20:26,014", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31173.985881 seconds)"}'
+'{"time": "2025-02-03 16:21:57,358", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:21:57,358", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:21:57,358", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:21:57,367", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:21:58,610", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:21:58,611", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:21:58,612", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:21:58,613", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:21:58,613", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:21:58,613", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:22:00,018", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:22:00,018", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:22:00,018", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:22:00,025", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:22:00,989", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:22:00,989", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:22:00,990", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:22:00,991", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:22:00,992", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:22:00,992", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:22:00,992", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:22:00,994", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31079.005409 seconds)"}'
+'{"time": "2025-02-03 16:22:18,937", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:22:18,937", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:22:18,937", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:22:18,944", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:22:19,875", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:22:19,876", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:22:19,876", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:22:19,877", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:22:19,877", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:22:19,877", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:22:19,878", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:22:19,878", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31060.121732 seconds)"}'
+'{"time": "2025-02-03 16:22:21,081", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:22:21,081", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:22:21,081", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:22:21,090", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:22:22,160", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:22:22,160", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:22:22,161", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:22:22,162", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:22:22,162", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:22:22,162", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:22:22,162", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:22:22,163", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31057.836019 seconds)"}'
+'{"time": "2025-02-03 16:22:23,371", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:22:23,372", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:22:23,372", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:22:23,378", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:22:24,341", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:22:24,341", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:22:24,342", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:22:24,343", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:22:24,343", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:22:24,343", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:22:24,344", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:22:24,344", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31055.655809 seconds)"}'
+'{"time": "2025-02-03 16:22:55,430", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:22:55,430", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:22:55,431", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:22:55,437", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:22:56,359", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:22:56,359", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:22:56,360", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:22:56,360", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:22:56,360", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:22:56,361", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:22:56,361", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:22:56,361", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31023.638653 seconds)"}'
+'{"time": "2025-02-03 16:22:57,607", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:22:57,608", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:22:57,608", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:22:57,615", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:22:58,717", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:22:58,718", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:22:58,719", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:22:58,720", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:22:58,720", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:22:58,720", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:22:58,720", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:22:58,723", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 31021.276371 seconds)"}'
+'{"time": "2025-02-03 16:23:26,498", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:23:26,498", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:23:26,498", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:23:26,504", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:23:27,724", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:23:27,724", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:23:27,725", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:23:27,726", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:23:27,726", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:23:27,726", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:23:27,726", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:23:27,726", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 30992.273078 seconds)"}'
+'{"time": "2025-02-03 16:23:28,886", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:23:28,886", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:23:28,886", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:23:28,893", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:23:29,934", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:23:29,934", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:23:29,935", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:23:29,936", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:23:29,936", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:23:29,936", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:23:29,936", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:23:29,939", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 30990.060881 seconds)"}'
+'{"time": "2025-02-03 16:23:31,469", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:23:31,469", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:23:31,469", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:23:31,480", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:23:32,517", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:23:32,517", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:23:32,518", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:23:32,518", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:23:32,519", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:23:32,519", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:23:32,519", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:23:32,520", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 30987.479187 seconds)"}'
+'{"time": "2025-02-03 16:25:04,942", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:25:04,942", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:25:04,942", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:25:04,953", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:25:05,985", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:25:05,985", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:25:05,986", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:25:05,986", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:25:05,986", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:25:05,987", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:25:05,987", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:25:05,988", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 30894.011346 seconds)"}'
+'{"time": "2025-02-03 16:25:07,164", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:25:07,165", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:25:07,165", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:25:07,171", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:25:08,147", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:25:08,148", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:25:08,148", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:25:08,149", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:25:08,149", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:25:08,149", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:25:08,149", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:25:08,151", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 30891.848898 seconds)"}'
+'{"time": "2025-02-03 16:25:40,140", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:25:40,140", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:25:40,140", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:25:40,153", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:25:41,408", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:25:41,408", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:25:41,409", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:25:41,410", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:25:41,410", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:25:41,410", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:25:41,410", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:25:41,411", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 30858.588067 seconds)"}'
+'{"time": "2025-02-03 16:25:42,611", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:25:42,611", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:25:42,611", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:25:42,620", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:25:43,562", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:25:43,562", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:25:43,563", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:25:43,564", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:25:43,564", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:25:43,564", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:25:43,564", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:25:43,566", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 30856.433134 seconds)"}'
+'{"time": "2025-02-03 16:27:00,984", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:27:00,984", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:27:00,984", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:27:00,995", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:27:02,615", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:27:02,616", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:27:02,618", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:27:02,619", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:27:02,619", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:27:02,619", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:27:02,619", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:27:02,622", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 30777.377129 seconds)"}'
+'{"time": "2025-02-03 16:42:28,114", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:42:28,115", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:42:28,115", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:42:28,122", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:42:29,139", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:42:29,139", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:42:29,141", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:42:29,142", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:42:29,142", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:42:29,142", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:42:29,142", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:42:29,144", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 29850.855694 seconds)"}'
+'{"time": "2025-02-03 16:42:30,489", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:42:30,489", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:42:30,489", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:42:30,502", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:42:31,670", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:42:31,670", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:42:31,671", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:42:31,673", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:42:31,673", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:42:31,673", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:42:31,674", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:42:31,676", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 29848.323627 seconds)"}'
+'{"time": "2025-02-03 16:42:33,278", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:42:33,278", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:42:33,278", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:42:33,286", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:42:34,291", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:42:34,291", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:42:34,292", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:42:34,293", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:42:34,293", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:42:34,293", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:42:34,293", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:42:34,293", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 29845.706368 seconds)"}'
+'{"time": "2025-02-03 16:43:00,005", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:43:00,005", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:43:00,005", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:43:00,012", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:43:01,093", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:43:01,093", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:43:01,094", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:43:01,096", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:43:01,096", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:43:01,097", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:43:01,097", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:43:01,097", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 29818.902333 seconds)"}'
+'{"time": "2025-02-03 16:43:02,455", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:43:02,455", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:43:02,456", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:43:02,464", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:43:03,582", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:43:03,583", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:43:03,584", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:43:03,584", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:43:03,585", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:43:03,585", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:43:03,585", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:43:03,585", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 29816.414589 seconds)"}'
+'{"time": "2025-02-03 16:45:41,476", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:45:41,476", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:45:41,476", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:45:41,482", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:45:42,439", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:45:42,440", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:45:42,441", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:45:42,442", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:45:42,443", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:45:42,443", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:45:42,443", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:45:42,445", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 29657.554851 seconds)"}'
+'{"time": "2025-02-03 16:45:43,681", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:45:43,682", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:45:43,682", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:45:43,689", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:45:44,726", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:45:44,726", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:45:44,727", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:45:44,728", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:45:44,728", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:45:44,728", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:45:44,728", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:45:44,728", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 29655.271234 seconds)"}'
+'{"time": "2025-02-03 16:45:45,943", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 16:45:45,943", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 16:45:45,944", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 16:45:45,955", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 16:45:47,130", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 16:45:47,130", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 16:45:47,131", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 16:45:47,132", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 16:45:47,132", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 16:45:47,132", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 16:45:47,132", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 16:45:47,132", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 29652.867351 seconds)"}'
+'{"time": "2025-02-03 17:19:12,013", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:19:12,013", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:19:12,013", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:19:12,022", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:19:13,240", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:19:13,241", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:19:13,242", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:19:13,243", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:19:13,243", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:19:13,244", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:19:13,244", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:19:13,244", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27646.755478 seconds)"}'
+'{"time": "2025-02-03 17:19:14,922", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:19:14,923", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:19:14,923", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:19:14,934", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:19:16,041", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:19:16,041", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:19:16,042", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:19:16,043", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:19:16,043", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:19:16,043", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:19:16,043", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:19:16,044", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27643.955995 seconds)"}'
+'{"time": "2025-02-03 17:19:26,549", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:19:26,549", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:19:26,549", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:19:26,562", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:19:27,958", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:19:27,958", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:19:27,960", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:19:27,960", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:19:27,960", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:19:27,960", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:19:27,961", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:19:29,378", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:19:29,378", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:19:29,378", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:19:29,389", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:19:30,471", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:19:30,472", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:19:30,473", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:19:30,474", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:19:30,474", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:19:30,474", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:19:30,475", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:19:30,476", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27629.523135 seconds)"}'
+'{"time": "2025-02-03 17:21:35,448", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:21:35,448", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:21:35,448", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:21:35,455", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:21:36,405", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:21:36,405", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:21:36,407", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:21:36,408", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:21:36,409", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:21:36,409", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:21:36,409", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:21:36,411", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27503.588527 seconds)"}'
+'{"time": "2025-02-03 17:21:37,657", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:21:37,657", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:21:37,658", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:21:37,670", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:21:38,713", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:21:38,714", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:21:38,714", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:21:38,715", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:21:38,715", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:21:38,715", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:21:38,715", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:21:38,716", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27501.283918 seconds)"}'
+'{"time": "2025-02-03 17:21:39,904", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:21:39,904", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:21:39,905", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:21:39,914", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:21:40,932", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:21:40,932", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:21:40,933", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:21:40,934", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:21:40,934", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:21:40,934", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:21:40,934", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:21:40,935", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27499.064956 seconds)"}'
+'{"time": "2025-02-03 17:21:44,500", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:21:44,500", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:21:44,500", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:21:44,509", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:21:45,805", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:21:45,806", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:21:45,808", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:21:45,809", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:21:45,809", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:21:45,809", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:21:47,379", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:21:47,379", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:21:47,379", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:21:47,386", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:21:48,497", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:21:48,497", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:21:48,498", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:21:48,499", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:21:48,499", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:21:48,499", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:21:48,499", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:21:48,499", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27491.500206 seconds)"}'
+'{"time": "2025-02-03 17:21:49,871", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:21:49,871", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:21:49,871", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:21:49,878", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:21:51,007", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:21:51,008", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:21:51,009", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:21:51,009", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:21:51,009", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:21:51,009", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:21:51,010", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:21:51,010", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27488.989666 seconds)"}'
+'{"time": "2025-02-03 17:22:20,592", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:22:20,592", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:22:20,592", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:22:20,600", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:22:21,930", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:22:21,930", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:22:21,932", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:22:21,933", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:22:21,934", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:22:21,934", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:22:21,934", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:22:21,937", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27458.062090 seconds)"}'
+'{"time": "2025-02-03 17:22:23,342", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:22:23,342", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:22:23,342", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:22:23,350", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:22:24,348", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:22:24,348", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:22:24,349", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:22:24,350", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:22:24,351", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:22:24,351", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:22:24,351", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:22:24,353", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27455.646133 seconds)"}'
+'{"time": "2025-02-03 17:22:25,761", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:22:25,761", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:22:25,761", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:22:25,769", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:22:26,764", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:22:26,764", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:22:26,765", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:22:26,766", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:22:26,767", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:22:26,767", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:22:26,767", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:22:26,767", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27453.232206 seconds)"}'
+'{"time": "2025-02-03 17:22:29,601", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:22:29,601", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:22:29,601", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:22:29,610", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:22:30,582", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:22:30,582", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:22:30,583", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:22:30,583", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:22:30,584", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:22:30,584", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:22:30,584", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:22:30,584", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27449.415514 seconds)"}'
+'{"time": "2025-02-03 17:22:32,000", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:22:32,001", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:22:32,001", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:22:32,013", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:22:33,234", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:22:33,234", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:22:33,235", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:22:33,236", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:22:33,236", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:22:33,237", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:22:33,237", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:22:33,237", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27446.762438 seconds)"}'
+'{"time": "2025-02-03 17:22:35,019", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:22:35,019", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:22:35,019", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:22:35,028", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:22:36,200", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:22:36,200", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:22:36,202", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:22:36,203", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:22:36,203", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:22:36,203", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:22:36,204", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:22:36,206", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27443.793604 seconds)"}'
+'{"time": "2025-02-03 17:27:38,013", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:27:38,014", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:27:38,014", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:27:38,022", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:27:39,006", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:27:39,007", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:27:39,008", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:27:39,008", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:27:39,008", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:27:39,009", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:27:39,009", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:27:39,010", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27140.989159 seconds)"}'
+'{"time": "2025-02-03 17:27:40,276", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:27:40,276", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:27:40,276", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:27:40,283", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:27:41,301", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:27:41,302", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:27:41,303", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:27:41,303", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:27:41,304", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:27:41,304", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:27:41,304", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:27:41,304", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 27138.695473 seconds)"}'
+'{"time": "2025-02-03 17:30:01,821", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:30:01,821", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:30:01,821", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:30:01,830", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:30:02,814", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:30:02,814", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:30:02,815", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:30:02,816", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:30:02,816", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:30:02,816", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:30:02,816", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:30:02,816", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 26997.183292 seconds)"}'
+'{"time": "2025-02-03 17:30:04,091", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:30:04,091", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:30:04,091", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:30:04,100", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:30:05,133", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:30:05,134", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:30:05,135", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:30:05,136", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:30:05,137", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:30:05,137", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:30:05,137", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:30:05,139", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 26994.860630 seconds)"}'
+'{"time": "2025-02-03 17:32:46,193", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:32:46,193", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:32:46,193", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:32:46,203", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:32:47,262", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:32:47,263", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:32:47,265", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:32:47,266", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:32:47,267", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:32:47,267", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:32:47,268", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:32:47,270", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 26832.729218 seconds)"}'
+'{"time": "2025-02-03 17:33:05,112", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:33:05,112", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:33:05,112", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:33:05,119", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:33:06,228", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:33:06,229", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:33:06,230", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:33:06,230", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:33:06,231", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:33:06,231", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:33:06,231", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:33:06,233", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 26813.767001 seconds)"}'
+'{"time": "2025-02-03 17:33:07,714", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:33:07,714", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:33:07,714", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:33:07,722", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:33:08,744", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:33:08,745", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:33:08,745", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:33:08,746", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:33:08,746", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:33:08,746", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:33:08,746", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:33:08,747", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 26811.252986 seconds)"}'
+'{"time": "2025-02-03 17:33:10,002", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:33:10,002", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:33:10,003", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:33:10,011", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:33:11,027", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:33:11,027", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:33:11,028", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:33:11,029", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:33:11,029", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:33:11,029", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:33:11,029", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:33:11,029", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 26808.970077 seconds)"}'
+'{"time": "2025-02-03 17:34:08,481", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'SafeConfigParser': <class 'configparser.ConfigParser'>"}'
+'{"time": "2025-02-03 17:34:08,481", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'NativeStringIO': <class '_io.StringIO'>"}'
+'{"time": "2025-02-03 17:34:08,481", "filename": "__init__.py", "level": "DEBUG", "message": "loaded lazy attr 'BytesIO': <class '_io.BytesIO'>"}'
+'{"time": "2025-02-03 17:34:08,495", "filename": "registry.py", "level": "DEBUG", "message": "registered 'bcrypt' handler: <class 'passlib.handlers.bcrypt.bcrypt'>"}'
+'{"time": "2025-02-03 17:34:10,175", "filename": "unix.py", "level": "DEBUG", "message": "/etc/timezone found, contents:
+ Asia/Kolkata
+"}'
+'{"time": "2025-02-03 17:34:10,176", "filename": "unix.py", "level": "DEBUG", "message": "/etc/localtime found"}'
+'{"time": "2025-02-03 17:34:10,177", "filename": "unix.py", "level": "DEBUG", "message": "2 found:
+ {'/etc/timezone': 'Asia/Kolkata', '/etc/localtime is a symlink to': 'Asia/Kolkata'}"}'
+'{"time": "2025-02-03 17:34:10,178", "filename": "base.py", "level": "INFO", "message": "Adding job tentatively -- it will be properly scheduled when the scheduler starts"}'
+'{"time": "2025-02-03 17:34:10,179", "filename": "base.py", "level": "INFO", "message": "Added job "delete_old_log_folders" to job store "default""}'
+'{"time": "2025-02-03 17:34:10,179", "filename": "base.py", "level": "INFO", "message": "Scheduler started"}'
+'{"time": "2025-02-03 17:34:10,179", "filename": "base.py", "level": "DEBUG", "message": "Looking for jobs to run"}'
+'{"time": "2025-02-03 17:34:10,182", "filename": "base.py", "level": "DEBUG", "message": "Next wakeup is due at 2025-02-04 01:00:00+05:30 (in 26749.818013 seconds)"}'

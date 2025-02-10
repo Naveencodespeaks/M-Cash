@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"Regular",
+        "charges":0,        
+        "description":"Money is typically received within 5-7 days after payment."
+    },
+    {
+        "id":2,
+        "name":"Fasttrack",
+        "charges":2.5,        
+        "description":"MTMS Remittal's fastest transfer"
+    }
+]

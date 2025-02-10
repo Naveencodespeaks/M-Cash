@@ -1,0 +1,27 @@
+[
+	{
+		"id": 1,
+		"name": "Super Admin"
+	},
+	{
+		"id": 2,
+		"name": "Customer"
+	},
+	{
+		"id": 3,
+		"name": "Tenant Admin"
+	},
+	{
+		"id": 4,
+		"name": "Marchant"
+	},
+	{
+		"id": 5,
+		"name": "Agent"
+	},
+	{
+		"id": 6,
+		"name": "Company"
+	}
+
+]

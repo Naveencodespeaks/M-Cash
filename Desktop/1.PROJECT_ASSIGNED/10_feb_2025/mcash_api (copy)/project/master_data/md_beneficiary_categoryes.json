@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "My Bank Account"
+	},
+	{
+		"id": 2,
+		"name": "Friend, Family and Other Individual"
+	},
+	{
+		"id": 3,
+		"name": "Broking Company"
+	},
+	{
+		"id": 4,
+		"name": "University"
+	},
+	{
+		"id": 5,
+		"name": "Organization"
+	}
+]

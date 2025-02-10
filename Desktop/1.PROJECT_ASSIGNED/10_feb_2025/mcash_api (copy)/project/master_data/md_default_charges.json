@@ -1,0 +1,35 @@
+[
+    {
+        "md_category_id":1,
+        "charges":2.5,
+        "admin_charges":2,
+        "agent_charges":0.5,
+        "calculate_in_percentage":true,
+        "description":"Charges as the remittance service charge",
+        "tenant_id":1,
+        "from_role_id":2,
+        "to_role_id":5
+    },
+    {
+        "md_category_id":2,
+        "charges":2.5,
+        "admin_charges":100,
+        "agent_charges":0,
+        "calculate_in_percentage":true,
+        "description":"GST On Charges",
+        "tenant_id":1,
+        "from_role_id":5,
+        "to_role_id":2
+    },
+    {
+        "md_category_id":3,
+        "charges":18.5,
+        "admin_charges":100,
+        "agent_charges":0,
+        "calculate_in_percentage":true,
+        "description":"GST On currency conversion",
+        "tenant_id":1,
+        "from_role_id":2,
+        "to_role_id":2
+    }
+]

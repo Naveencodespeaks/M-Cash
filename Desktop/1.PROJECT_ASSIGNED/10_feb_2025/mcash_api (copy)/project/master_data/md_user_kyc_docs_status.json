@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "Document Not Available"
+	},
+	{
+		"id": 2,
+		"name": "Pending"
+    },
+	{
+		"id": 3,
+		"name": "Approved"
+	},
+	{
+		"id": 4,
+		"name": "On-Hold"
+	},
+    {
+		"id": 5,
+		"name": "Rejected"
+    }
+]

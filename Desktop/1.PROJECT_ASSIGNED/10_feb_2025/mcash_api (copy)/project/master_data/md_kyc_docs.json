@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "name":"Address Proof",
+        "required":true,
+        "tenant_id":1,
+        "share_type":"ALL_USERS",
+        "description":"Adhar Card"
+    },
+    {
+        "id":2,     
+        "name": "ID Proof",
+        "required":true,
+        "tenant_id":1,
+        "share_type":"ALL_USERS",
+        "description":"PAN Card"
+    }
+    
+    
+    
+]

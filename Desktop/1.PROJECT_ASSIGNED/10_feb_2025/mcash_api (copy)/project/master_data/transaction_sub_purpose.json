@@ -1,0 +1,14 @@
+[
+    {   "id":1,
+        "transaction_purpose_id":1,
+        "name":"Studies Abroad Sub Item",
+        "description":"Studies Abroad",
+        "flag":""
+    },
+    {    "id":2,
+        "transaction_purpose_id":2,
+        "name":"Gifting  Sub Item",
+        "description":"Gifting",
+        "flag":""
+    }
+]

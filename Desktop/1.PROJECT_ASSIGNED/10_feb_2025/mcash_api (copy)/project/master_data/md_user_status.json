@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "Account  Initiated"
+	},
+	{
+		"id": 2,
+		"name": "Signup Pending"
+	},
+	{
+		"id": 3,
+		"name": "Active"
+	},
+	{
+		"id": 4,
+		"name": "Inactive"
+	},
+	{
+		"id": 5,
+		"name": "Delete"
+	}
+]

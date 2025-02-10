@@ -1,0 +1,21 @@
+[
+	{
+		"id":1,
+		"name":"Indian Rupees",
+        "iso_code":"INR",
+        "currency_symbol":"INR",
+        "subunits":100,
+        "subunits_name":"Pisa",
+        "currency_type_id":1
+
+	},
+	{
+		"id":2,
+		"name": "US Dollar",
+        "iso_code":"USD",
+        "currency_symbol":"USD",
+        "subunits":100,
+        "subunits_name":"Cents",
+        "currency_type_id":1
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"name": "Created"
+	},
+	{
+		"id": 2,
+		"name": "In-Process"
+    },
+	{
+		"id": 3,
+		"name": "On-Hold"
+	},
+	{
+		"id": 4,
+		"name": "Completed"
+	},
+    {
+		"id": 5,
+		"name": "Closed"
+    }
+]

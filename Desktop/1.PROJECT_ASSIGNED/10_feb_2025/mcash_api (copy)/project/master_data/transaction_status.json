@@ -1,0 +1,20 @@
+[
+	{
+		"id":1,
+		"name":"Initiated"
+	},
+	{
+		"id":2,
+		"name":"In-Progress"
+	},
+
+	{
+		"id":3,
+        "name": "Completed"
+	},
+	{
+		"id":4,
+        "name": "Failed"
+	}
+	
+]

@@ -1,0 +1,24 @@
+[
+
+    {
+    "user_name":"Admin",
+    "password":"$2b$12$Y6bPp1KQ/745SraOYLG6z.KdgXsaYpuipWQO3J5y.ZhxO4jAirMxW",
+    "login_token":"$2b$12$Y6bPp1KQ/745SraOYLG6z.KdgXsaYpuipWQO3J5y.ZhxO4jAirMxW",
+    "token":"$2b$12$Y6bPp1KQ/745SraOYLG6z.KdgXsaYpuipWQO3J5y.ZhxO4jAirMxW",
+    "email":"remit_admin@yopmail.com",
+    "mobile_no":"+91-7396625277",
+    "role_id":1,
+    "status_id":3
+    },
+    {
+        "user_name":"Machint Solutions",
+        "password":"$2b$12$Y6bPp1KQ/745SraOYLG6z.KdgXsaYpuipWQO3J5y.ZhxO4jAirMxW",
+        "login_token":"$2b$12$Y6bPp1KQ/745SraOYLG6z.KdgXsaYpuipWQO3J5y.ZhxO4jAirMxW",
+        "token":"$2b$12$Y6bPp1KQ/745SraOYLG6z.KdgXsaYpuipWQO3J5y.ZhxO4jAirMxW",
+        "email":"machint_admin@yopmail.com",
+        "mobile_no":"+91-7396625277",
+        "role_id":3,
+        "status_id":3,
+        "tenant_id":1
+        }
+]

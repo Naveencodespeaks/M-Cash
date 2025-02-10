@@ -1,0 +1,61 @@
+[
+
+    {   "id":1,
+        "name":"My NRE/NRO Account",
+        "description":"My NRE/NRO Account",
+        "flag":""
+    },
+    {    "id":2,
+        "name":"Savings & Family Support",
+        "description":"Savings & Family Support",
+        "flag":""
+    },
+    {
+        "id":3,
+        "name":"Real Estate / Housing Societies",
+        "description":"Real Estate / Housing Societies",
+        "flag":""
+    },
+    {
+        "id":4,
+        "name":"Educational Institutions",
+        "description":"Educational Institutions",
+        "flag":""
+    },
+    {
+        "id":5,
+        "name":"Tax Payment",
+        "description":"Tax Payment",
+        "flag":""
+    },
+    {
+        "id":6,
+        "name":"Hospitals / Healthcare Providers",
+        "description":"Hospitals / Healthcare Providers",
+        "flag":""
+    },
+    {
+        "id":7,
+        "name":"Travel / Tourism Partners",
+        "description":"Travel / Tourism Partners",
+        "flag":""
+    },
+    {
+        "id":8,
+        "name":"Utility Bill Payments",
+        "description":"Utility Bill Payments",
+        "flag":""
+    },
+    {
+        "id":9,
+        "name":"Loan Account Payment",
+        "description":"Loan Account Payment",
+        "flag":""
+    },
+    {
+        "id":10,
+        "name":"Other",
+        "description":"Other",
+        "flag":""
+    }
+]
